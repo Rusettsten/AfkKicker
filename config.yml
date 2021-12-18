@@ -1,0 +1,4 @@
+# Welcome to the Ruckboi Big Boi custom server plugin configuration file
+
+afk-kick-enable: true
+afk-threshold: 5

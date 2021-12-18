@@ -1,0 +1,13 @@
+name: AfkKicker
+main: afkkicker.AfkKickerStartup
+api-version: 1.18
+version: 1.2
+softdepend: [Vault, EssentialsX]
+author: Benji Arrigo
+description: Kicks AFK players once a certain player threshold is reached
+commands:
+  afkkicker:
+    description: Information about plugin.
+    usage: /afkkicker
+    permission: afkkicker.info
+    permission-message: You do not have permission to run that command!
